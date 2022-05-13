@@ -139,6 +139,8 @@ button {
 }
 .main {
 	background: url(../image/bg.png) 100% 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .main-bg {
 	height: 100vh;
